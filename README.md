@@ -14,23 +14,23 @@ welcome to my project! this is a machine learning web app that predicts students
 - [License](#license)
 
 ## Dataset_Overview
-**Dataset statistics**  
+* **Dataset statistics**  
 
 ![](https://drive.google.com/uc?export=view&id=1f9qdjHMVF-tbdKbNCGn728UreVfTFai6)
 
-**Scatter Plot of Age vs. Pregnancies**  
+* **Scatter Plot of Age vs. Pregnancies**  
 
 ![](https://drive.google.com/uc?export=view&id=1YXjqOkZktYRPoxRkPf12NqjvKTIdANf1)
 
-**Correlation Matrix**  
+* **Correlation Matrix**  
 
 ![](https://drive.google.com/uc?export=view&id=16TpAAuthxkbfhU6yFMrQ8moQTfVXqdpy)
 ![](https://drive.google.com/uc?id=1_-k403cGOjBnas2bzTxseujZuJo3BPB2)
 
-**Sample**  
+* **Sample**  
 
 ![](https://drive.google.com/uc?id=1Nj2OQKTT3apMXPzQgNTQBKBudF24Tjhx)
-## Features
+
 
 ## Features
 
