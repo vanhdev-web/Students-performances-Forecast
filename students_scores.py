@@ -12,7 +12,7 @@ from sklearn.tree import DecisionTreeRegressor
 from lazypredict.Supervised import LazyRegressor
 
 
-data = pd.read_csv("../Students_Scores_Prediction/StudentScore.xls")
+data = pd.read_csv("StudentScore.xls")
 
 # data split
 target = "writing score"

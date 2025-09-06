@@ -1,4 +1,5 @@
 # Students Performance Forecast
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/vanhdev-web/Co2_tsf)
 
 welcome to my project! this is a machine learning web app that predicts students’ academic performance, especially their writing scores. by applying different regression models, the app provides useful insights and forecasts to help understand and improve student outcomes.
 
